@@ -21,6 +21,7 @@ public class AllPrimitiveTypes {
         System.out.println(f);
         System.out.println(g);
         System.out.println(bool);
+        System.out.println("test of new commit");
 
     }
 }
